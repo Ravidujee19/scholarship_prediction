@@ -1,6 +1,6 @@
 # 🎓 Scholarship Exam Prediction using Student Test Scores
 
-This project uses machine learning to predict whether a 4th-grade student will pass the 5th-year scholarship exam based on their test scores. The dataset includes exam results for 30 students.
+This project uses machine learning to predict whether a 4th-grade student will pass the 5th-grade scholarship exam based on their test scores. The dataset includes exam results for 30 students.
 
 ## 🔍 Overview
 
